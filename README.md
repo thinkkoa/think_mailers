@@ -1,2 +1,2 @@
-# think_mailer
+# think_mailers
 Mailer for thinkkoa.

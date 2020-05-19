@@ -1,5 +1,5 @@
 {
-  "name": "think_emails",
+  "name": "think_mailers",
   "version": "1.0.0",
   "description": "Mailer for thinkkoa.",
   "main": "index.js",
@@ -14,9 +14,9 @@
   "author": "richenlin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thinkkoa/think_emails/issues"
+    "url": "https://github.com/thinkkoa/think_mailers/issues"
   },
-  "homepage": "https://github.com/thinkkoa/think_emails",
+  "homepage": "https://github.com/thinkkoa/think_mailers",
   "devDependencies": {
     "eslint": "^6.8.0"
   },
