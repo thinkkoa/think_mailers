@@ -1,0 +1,29 @@
+{
+  "name": "think_emails",
+  "version": "1.0.0",
+  "description": "Mailer for thinkkoa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run eslint",
+    "prepublish": "npm test",
+    "eslint": "eslint index.js"
+  },
+  "engines": {
+    "node": ">8.0.0"
+  },
+  "author": "richenlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thinkkoa/think_emails/issues"
+  },
+  "homepage": "https://github.com/thinkkoa/think_emails",
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  },
+  "dependencies": {
+    "nodemailer": "^6.4.6",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "think_lib": "^2.x.x",
+    "think_logger": "^2.x.x"
+  }
+}
